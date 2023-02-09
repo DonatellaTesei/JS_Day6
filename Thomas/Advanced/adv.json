@@ -1,13 +1,17 @@
 let books = `[{"title": "Javascript for Dummies",
 "author": "Dummy Dumb Dumb",
-"read": "false"
+"read": "false",
+"pic": "https://cdn.pixabay.com/photo/2014/09/05/18/32/old-books-436498__340.jpg"
 },{"title": "Javascript for Advanced",
 "author": "Dummy Dum Dum",
-"read": "true"
+"read": "true",
+"pic": "https://cdn.pixabay.com/photo/2014/09/05/18/32/old-books-436498__340.jpg"
 },{"title": "Bootstrap for Dummies",
 "author": "Mrs Bootstrap",
-"read": "true"
+"read": "true",
+"pic": "https://cdn.pixabay.com/photo/2014/09/05/18/32/old-books-436498__340.jpg"
 },{"title": "Bootrap for Advaced",
 "author": "Mr Bootrap",
-"read": "false"
+"read": "false",
+"pic": "https://cdn.pixabay.com/photo/2014/09/05/18/32/old-books-436498__340.jpg"
 }]`
