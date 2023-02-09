@@ -1,0 +1,13 @@
+let books = `[{"title": "Javascript for Dummies",
+"author": "Dummy Dumb Dumb",
+"read": "false"
+},{"title": "Javascript for Advanced",
+"author": "Dummy Dum Dum",
+"read": "true"
+},{"title": "Bootstrap for Dummies",
+"author": "Mrs Bootstrap",
+"read": "true"
+},{"title": "Bootrap for Advaced",
+"author": "Mr Bootrap",
+"read": "false"
+}]`
