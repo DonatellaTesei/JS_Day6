@@ -1,0 +1,71 @@
+let employees = `[{
+    "uniqueId": "01",
+    "fName": "Donatella",
+    "lName": "Tesei",
+    "email": "donatella.tesei@gmail.com",
+    "jobTitle": "PostDoc",
+    "salary": "70.000"
+}, {
+    "uniqueId": "02",
+    "fName": "Brad",
+    "lName": "Pitt",
+    "email": "brad.pitt@gmail.com",
+    "jobTitle": "actor",
+    "salary": "500000"
+}, {
+    "uniqueId": "03",
+    "fName": "Colin",
+    "lName": "Farrell",
+    "email": "coli.farrell@gmail.com",
+    "jobTitle": "actor",
+    "salary": "400000"
+}, {
+    "uniqueId": "04",
+    "fName": "Kate",
+    "lName": "Hudson",
+    "email": "kate.hudson@gmail.com",
+    "jobTitle": "actress",
+    "salary": "300000"
+}, {
+    "uniqueId": "05",
+    "fName": "Monica",
+    "lName": "Bellucci",
+    "email": "monica.bellucci@gmail.com",
+    "jobTitle": "actress",
+    "salary": "400000"
+}, {
+    "uniqueId": "06",
+    "fName": "John",
+    "lName": "Mayer",
+    "email": "john.gmail.com",
+    "jobTitle": "musician",
+    "salary": "400000"
+}, {
+    "uniqueId": "07",
+    "fName": "Bruce",
+    "lName": "Springsteen",
+    "email": "bruce@gmail.com",
+    "jobTitle": "musician",
+    "salary": "600000"
+}, {
+    "uniqueId": "08",
+    "fName": "albert",
+    "lName": "einstein",
+    "email": "albert@gmail.com",
+    "jobTitle": "physicist",
+    "salary": "20000"
+}, {
+    "uniqueId": "09",
+    "fName": "roberto",
+    "lName": "bolle",
+    "email": "bolle@gmail.com",
+    "jobTitle": "dancer",
+    "salary": "200000"
+}, {
+    "uniqueId": "10",
+    "fName": "damien",
+    "lName": "hirst",
+    "email": "hirst@gmail.com",
+    "jobTitle": "artist",
+    "salary": "150000"
+}]`
