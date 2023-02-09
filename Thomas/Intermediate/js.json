@@ -1,0 +1,50 @@
+let employees = `[{
+    "Unique ID": "1",
+    "First Name": "Jon",
+    "Last Name": "Jonsen",
+    "Email address": "jon.jason@gmx.com",
+    "Job Title": "Saleagent",
+    "Salary": "300000"
+}, {
+    "Unique ID": "2",
+    "First Name": "Joni",
+    "Last Name": "Jonsen",
+    "Email address": "joni.jason@gmx.com",
+    "Job Title": "Saleagent",
+    "Salary": "350000"
+}, {
+    "Unique ID": "3",
+    "First Name": "Jane",
+    "Last Name": "Jinsen",
+    "Email address": "jan.jinsen@gmx.com",
+    "Job Title": "Manager",
+    "Salary": "450000"
+}, {
+    "Unique ID": "4",
+    "First Name": "Tim",
+    "Last Name": "Alon",
+    "Email address": "tim.alon@gmail.com",
+    "Job Title": "Saleagent KAM",
+    "Salary": "600000"
+}, {
+    "Unique ID": "5",
+    "First Name": "Lacu",
+    "Last Name": "Caraca",
+    "Email address": "lacu.cara@gmx.com",
+    "Job Title": "Backoffice Manager",
+    "Salary": "420000"
+}, {
+    "Unique ID": "6",
+    "First Name": "Jack",
+    "Last Name": "Jackson",
+    "Email address": "jack.jackson@gmx.com",
+    "Job Title": "CEO",
+    "Salary": "1300000"
+}, {
+    "Unique ID": "7",
+    "First Name": "Bali",
+    "Last Name": "Balinson",
+    "Email address": "bali.balinson@gmx.com",
+    "Job Title": "Ceots",
+    "Salary": "3000000"
+}]`
